@@ -1,0 +1,12 @@
+.dad {
+    background-image: url(../img/ded.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    width: 1270px;
+    
+}
+body {
+    background-color: black;
+    color: white;
+}
